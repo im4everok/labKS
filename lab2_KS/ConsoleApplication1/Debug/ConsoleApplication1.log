@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  Unknown compiler version - please run the configure tests and report the results
+LINK : warning LNK4044: unrecognized option '/vmg'; ignored
+  ConsoleApplication1.vcxproj -> C:\Users\Mizyk\source\repos\lab2_KS\Debug\lab2_ks.exe

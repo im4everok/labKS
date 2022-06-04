@@ -1,0 +1,93 @@
+$date
+     May 27, 2022       12:37:00
+$end
+
+$version
+ SystemC 2.3.3-Accellera --- May 27 2022 10:41:46
+$end
+
+$timescale
+     1 ns
+$end
+
+$scope module SystemC $end
+$var wire    1  aaaaa  CLK       $end
+$var real    1  aaaab  X       $end
+$var real    1  aaaac  Y       $end
+$var real    1  aaaad  F1       $end
+$var real    1  aaaae  REP       $end
+$var real    1  aaaaf  R1       $end
+$var real    1  aaaag  R2       $end
+$var real    1  aaaah  Sum       $end
+$var real    1  aaaai  Diff       $end
+$var real    1  aaaaj  Prod       $end
+$var real    1  aaaak  Quot       $end
+$var real    1  aaaal  Pow       $end
+$upscope $end
+$enddefinitions  $end
+
+$comment
+All initial values are dumped below at time 0 sec = 0 timescale units.
+$end
+
+$dumpvars
+0aaaaa
+r15 aaaab
+r150 aaaac
+r0 aaaad
+r0 aaaae
+r0 aaaaf
+r15 aaaag
+r0 aaaah
+r0 aaaai
+r0 aaaaj
+r0 aaaak
+r0 aaaal
+$end
+
+#10
+1aaaaa
+r-135 aaaad
+r167625 aaaae
+r15 aaaah
+r-15 aaaai
+
+#20
+0aaaaa
+
+#30
+1aaaaa
+r167490 aaaaf
+r-225 aaaaj
+r-1 aaaak
+
+#40
+0aaaaa
+
+#50
+1aaaaa
+r167505 aaaah
+r167475 aaaai
+
+#60
+0aaaaa
+
+#70
+1aaaaa
+r28052899875 aaaaj
+r1.000179131213614 aaaak
+
+#80
+0aaaaa
+
+#90
+1aaaaa
+r28174052568.42886 aaaal
+
+#100
+0aaaaa
+
+#110
+1aaaaa
+
+#120

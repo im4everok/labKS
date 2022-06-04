@@ -1,0 +1,17 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (lab3KC.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  display.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  main.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  numgen.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  stage1.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  stage2.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  stage3.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  Generating Code...
+LINK : warning LNK4044: unrecognized option '/vmg'; ignored
+LINK : warning LNK4044: unrecognized option '/vmg'; ignored
+  lab3KC.vcxproj -> C:\Users\Mizyk\source\repos\Lab3_KS\Debug\pipe.exe
